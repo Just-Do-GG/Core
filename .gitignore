@@ -1,0 +1,14 @@
+# Godot
+.godot/
+import/
+*.import
+*.gen.*
+.mono/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

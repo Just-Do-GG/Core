@@ -1,0 +1,12 @@
+# Auto detect
+* text=auto
+
+# Godot
+*.gd text
+*.tscn text
+*.tres text
+*.godot text
+*.svg text
+*.png binary
+*.ogg binary
+*.wav binary
